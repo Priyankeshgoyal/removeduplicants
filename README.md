@@ -1,1 +1,3 @@
 # removeduplicants
+<script>
+  var str=""
